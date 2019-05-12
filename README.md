@@ -1,9 +1,11 @@
 # FinalProjectDigital
 
-TTutorial1
+Tutorial1
 Github Cheatsheet Tutorial
-Thomas Payton
-When you use 3 tic marks it will show the raw code. I will use this throughout the whole tutuorial.
+Charles Burney
+
+
+When you use 3 tic marks it will show the raw code.
 With tics:
 
 ```~~ CUT IT ~~````
@@ -12,22 +14,31 @@ With out it:
 
 CUT IT
 
-Headers very from 1-6. 1 being the largest heading you can use. All you have to do is put the amouunt of hashtags you want to use when starting your statement/sentence.
+### Changing Header Size
+In order to change the size os a header, you will have to put hashtags based on how big or small you want the text. If you want to increase the size of the text, you will have to increrase the amount of hashtags. There is a maximum of 6 hashtags.
+
+
 For example:
 
-# This is the largest text you can use.    
-###### This is the smallest text you can use. 
+#This is the largest text you can use. (With space after hashtags)
+
+######This is the smallest text you can use. (With space after hashtags)
+
 Will show:
 
-This is the largest text you can use.
-This is the smallest text you can use.
-Another setting is how to use links to websites. All you have to do is use closed brackets first and put whatever you want in it. Then, put closed parentheses with the link inside.
+###### This is the largest text you can use.
+# This is the smallest text you can use.
+
+### Adding Url to Code
+In order to add a url to your code you will have to put open and closed brackets around what you would like to be called then follow that with the link to the website in parenthesis. 
+
 For example:
 
-[Youtube](https://www.youtube.com)
+*Bracket* Google *Bracket* ((https://www.google.com))
+
 Will show:
 
-Youtube
+[Google] (https://www.google.com)
 
 To put an image in your program, read the following
 First, you insert an Exclamtion point.
@@ -43,13 +54,13 @@ alt text
 Last but not least in cheats, you can use add charts that show any data below.
 Example:
 
-| My            | Name is       |Thomas |
+| My            | Name is       |Charles |
 | ------------- |:-------------:| -----:|
 | 1             | 2             | 3     |
 | !             | @             | #     |
 Will show:
 
-My	Name is	Thomas
+My	Name is	Charles
 1	2	3
 !	@	#
 All these cheats can help any beginner and maybe even someone who may have just forgot.
