@@ -20,14 +20,12 @@ In order to change the size os a header, you will have to put hashtags based on 
 
 For example:
 
-#This is the largest text you can use. (With space after hashtags)
-
-######This is the smallest text you can use. (With space after hashtags)
-
+// # This is the largest text you can use.    
+// ###### This is the smallest text you can use. 
 Will show:
 
-###### This is the largest text you can use.
-# This is the smallest text you can use.
+# This is the largest text you can use.
+###### This is the smallest text you can use.
 
 ### Adding Url to Code
 In order to add a url to your code you will have to put open and closed brackets around what you would like to be called then follow that with the link to the website in parenthesis. 
