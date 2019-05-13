@@ -22,29 +22,33 @@ For example:
 
 // # This is the largest text you can use.    
 // ###### This is the smallest text you can use. 
+
 Will show:
 
 # This is the largest text you can use.
 ###### This is the smallest text you can use.
 
 ### Adding Url to Code
-In order to add a url to your code you will have to put open and closed brackets around what you would like to be called then follow that with the link to the website in parenthesis. 
+In order to add a url to your code you will have to put open and closed brackets around what you would like the link to be named then follow that with the link to the website in parenthesis. 
 
 For example:
 
-*Bracket* Google *Bracket* ((https://www.google.com))
+[ Google ] (https://www.google.com)
 
 Will show:
 
-[Google] (https://www.google.com)
+[Google](https://www.google.com)
 
-To put an image in your program, read the following
-First, you insert an Exclamtion point.
-Then you insert to brackets and in them you put alt text.
-Last, in your parantheses you add the image address to what you want the user to preview.
-All 3 steps together steps put toegther will show:
 
-![alt text](https://healthjade.com/wp-content/uploads/2017/10/apple-fruit.jpg)
+### Adding Image to Code 
+In order to add an image to your code you will have to put an exclamation point, followed by a pair of bracket with "alt text" in between the brackets. After,  "![alt text]" you will then put the link to the photo in parenthesis.
+
+
+For Example:
+
+[alt text](https://upload.wikimedia.org/wikipedia/commons/4/41/Siberischer_tiger_de_edit02.jpg)
+
+
 As the final product:
 
 alt text
